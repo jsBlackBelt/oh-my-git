@@ -1,0 +1,36 @@
+{
+    "breadcrumbs.enabled": true,
+    "files.trimFinalNewlines": true,
+    "files.trimTrailingWhitespace": true,
+    "eslint.packageManager": "yarn",
+    "eslint.run": "onSave",
+    "eslint.alwaysShowStatus": true,
+    "prettier.eslintIntegration": true,
+    "prettier.tabWidth": 4,
+    "prettier.trailingComma": "all",
+    "bookmarks.navigateThroughAllFiles": true,
+    "workbench.editor.enablePreviewFromQuickOpen": false,
+    "workbench.editor.enablePreview": false,
+    "editor.detectIndentation": false,
+    "yaml.format.enable": true,
+    "[yaml]": {
+        "editor.insertSpaces": true,
+        "editor.tabSize": 4,
+        "editor.quickSuggestions": {
+            "other": true,
+            "comments": false,
+            "strings": true
+        },
+        "editor.autoIndent": true
+    },
+    "sync.gist": "d5b2db0be63abc755e5ded2e037328cc",
+    "files.autoSave": "afterDelay",
+    "files.autoSaveDelay": 3000,
+    "workbench.iconTheme": "vscode-icons",
+    "explorer.confirmDragAndDrop": false,
+    "javascript.updateImportsOnFileMove.enabled": "never",
+    "terminal.integrated.shell.osx": "/bin/bash",
+    "terminal.explorerKind": "external",
+    "terminal.external.osxExec": "iTerm.app",
+    "terminal.integrated.fontFamily": "'SourceCodePro+Powerline+Awesome Regular'",
+}
