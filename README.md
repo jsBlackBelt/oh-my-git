@@ -1,4 +1,6 @@
 
+My Own Fork
+
 ![alt tag](https://raw.githubusercontent.com/arialdomartini/oh-my-git-gh-pages/master/images/samples/01-ordinary-prompt.jpg)
 ![alt tag](https://raw.githubusercontent.com/arialdomartini/oh-my-git-gh-pages/master/images/samples/02-bang.jpg)
 ![alt tag](https://raw.githubusercontent.com/arialdomartini/oh-my-git-gh-pages/master/images/samples/03-useful-information.jpg)
@@ -28,7 +30,7 @@ You can freely [download](https://github.com/gabrielelana/awesome-terminal-fonts
 To install one of the fonts, on OS X just double click on the corresponding ```ttf``` file and click on ```Install font```. So far, I didn't find a way to make the fallback strategy work on OS X.
 
 On Linux you can either [install the patched font](#install-the-patched-font) or you can apply the Awesome-Terminal-Fonts [fallback strategy](https://github.com/gabrielelana/awesome-terminal-fonts/blob/master/README.md#patching-vs-fallback).
-    
+
 Then, configure your terminal with the desired font, and restart it.
 
 ## Bash
@@ -75,7 +77,7 @@ to your `.zshrc` file.
 [antigen](https://github.com/zsh-users/antigen) is a plugin manager for `zsh`.
 Installing antigen is straightforward:
 
-    cd ~ && git clone https://github.com/zsh-users/antigen.git .antigen 
+    cd ~ && git clone https://github.com/zsh-users/antigen.git .antigen
 
 Then, edit your `.zshrc` file including
 
